@@ -1,6 +1,6 @@
 # HomePage Project
 
-This is my homework project, available here: (https://shirac631.github.io/homepage/).
+This is my homework project, available here: ([https://shirac631.github.io/homepage/](https://shirac631.github.io/HomePage/)).
 
 ## Project Overview
 
