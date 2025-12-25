@@ -1,6 +1,6 @@
 # HomePage Project
 
-This is my homework project. The main file is `index.html` located in the `homepage` directory.
+This is my homework project, available here: (https://shirac631.github.io/homepage/).
 
 ## Project Overview
 
